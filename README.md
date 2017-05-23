@@ -1,3 +1,1 @@
-# gitskills
-one
-e:
+gitskills dev
